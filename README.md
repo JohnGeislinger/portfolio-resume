@@ -1,2 +1,2 @@
-# portfolio-resume
-Professional Portfolio
+# Portfolio
+John Geislinger Project Portfolio
